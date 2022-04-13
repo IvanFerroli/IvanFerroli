@@ -1,4 +1,4 @@
-### Hi! I'm Caio Lemos, a brazilian civil engineer who decided to change careers.
+### Hi! I'm Ivanilson Ferreira, a brazilian design student who decided to change careers.
 
 - 🌱 I’m currently studying to become a full-stack developer. HTML / CSS / JavaScript
 - 😄 Pronouns: EN: he/him PT-BR: ele/dele
@@ -6,8 +6,8 @@
 
 
 <div>
-  <a href="https://github.com/lemoscaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemoscaio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/IvanFerroli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanFerroli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemoscaio&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
