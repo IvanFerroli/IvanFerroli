@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/IvanFerroli">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IvanFerroli&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IvanFerroli&theme=highcontrast"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFerroli&layout=compact&theme=highcontrast"/>
 </div>
   
