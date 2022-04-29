@@ -1,6 +1,6 @@
 ### Hi! I'm Ivanilson Ferreira, a brazilian design student who decided to change careers.
 
-- 👨‍🎓️ I’m currently studying to become a full-stack developer. HTML / CSS / JavaScript
+- 👨‍🎓️ I’m currently studying to become a full-stack developer. HTML / CSS / JavaScript (Vanilla, Node Js, React Js) / SQL-MongoDb
 - 🙃️ Pronouns: EN: he/him PT-BR: ele/dele
 
 
