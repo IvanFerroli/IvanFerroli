@@ -7,9 +7,8 @@
 
 <div>
   <a href="https://github.com/IvanFerroli">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=IvanFerroli"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFerroli&layout=compact"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFerroli&layout=compact&theme=highcontrast"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=IvanFerroli&theme=transparent"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFerroli&theme=transparent"/>
 </div>
   
 <div style="display: inline_block"><br>
