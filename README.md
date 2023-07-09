@@ -1,6 +1,6 @@
-### Hi! I'm Ivanilson Ferreira, a brazilian computer science student who decided to deep dive in the coding world.
+### Hi! I'm Ivanilson Ferreira, a brazilian computer engeneering student who decided to deep dive in the coding world.
 
-- 👨‍🎓️ I’m currently studying to become a full-stack developer. HTML / CSS / JavaScript (Vanilla, Node Js, React Js) / MySQL / MongoDb
+- 👨‍🎓️ I’m currently a full-stack (front-end biased) developer (HTML / CSS / JavaScript (Vanilla, Node Js, React Js) / MySQL / MongoDb) studying to become a badass back-end developer!
 - 🙃️ Pronouns: EN: he/him PT-BR: ele/dele
 
 
