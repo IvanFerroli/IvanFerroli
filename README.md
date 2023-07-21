@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/IvanFerroli">
   
-  <img height="145em" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFerroli&layout=compact&theme=transparent"/>
+  <img height="600em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFerroli&layout=compact&theme=transparent"/>
 </div>
   
 <div style="display: inline_block"><br>
