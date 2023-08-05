@@ -2,14 +2,6 @@
 
 - 👨‍🎓️ I’m currently a full-stack (front-end biased) developer studying to become a badass back-end developer as well!
 - 🙃️ Pronouns: EN: he/him PT-BR: ele/dele
-
-
-
-<div>
-  <a href="https://github.com/IvanFerroli">
-  
-  <img height="175em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFerroli&layout=compact&theme=transparent"/>
-</div>
   
 <div style="display: flex, widith: 100%, background-color: red"><br>
   <img align="center" alt="Ivan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
