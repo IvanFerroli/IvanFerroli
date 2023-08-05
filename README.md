@@ -26,6 +26,6 @@
     <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/ivanilson-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:ivanilson.ferreira.mec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanferroli&label=Profile%20views&color=03b300&style=flat-square" alt="ivanferroli" /> </p>
+    <img src="https://komarev.com/ghpvc/?username=ivanferroli&label=Profile%20views&color=03b300&style=flat-square" alt="ivanferroli" />
   </div>
   
