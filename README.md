@@ -11,7 +11,7 @@
   <img height="175em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFerroli&layout=compact&theme=transparent"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block, widith: 100%"><br>
   <img align="center" alt="Ivan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Ivan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ivan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
