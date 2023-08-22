@@ -7,7 +7,7 @@
 
     ##
 
-    <p align="center"><img src="./img2.webp" style="width:250px"></p>
+    <p align="center"><img src="./img.webp" style="width:250px"></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
