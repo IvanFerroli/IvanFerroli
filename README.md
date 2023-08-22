@@ -3,6 +3,8 @@
 
 ### Hi! I'm Ivanilson Ferreira, a brazilian computer engeneering student who decided to deep dive in the coding world.
 
+<p align="center"><img src="./img.webp" style="width:250px"></p>
+
 - 👨‍🎓️ I’m currently a full-stack (front-end biased) developer studying to become a badass back-end developer as well!
 - 🙃️ Pronouns: EN: he/him PT-BR: ele/dele
   
