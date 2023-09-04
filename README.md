@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-<div style="width: 100%; display: flex; align-items: center; justify-content: center;" ><img style="width: 75%;" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IvanFerroli&theme=dark&hide_border=true" alt="ivanferroli" /><div/>
+<div style="width: 100%; display: flex; align-items: center; justify-content: center;" ><img style="width: 75%;" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IvanFerroli&theme=merko&hide_border=true" alt="ivanferroli" /><div/>
 </p>
 
 
