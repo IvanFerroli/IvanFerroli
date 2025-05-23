@@ -70,9 +70,11 @@
   </p>
 </div>
 
+<!-- 
 <p align="center">
   <img style="width: 75%;" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IvanFerroli&theme=merko&hide_border=true" alt="ivanferroli" />
 </p>
+-->
 
 <p align="left">
   <div style="width: 100%; display: flex; align-items: center; justify-content: center;">
