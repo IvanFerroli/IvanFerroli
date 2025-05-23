@@ -2,9 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=ivanferroli&label=Profile%20views&color=03b300&style=flat-square" alt="ivanferroli" />
 </div>
 
-### Hello! I'm Ivanilson Ferreira, a Brazilian computer engineering student who decided to dive deep into the coding world.
+### Hello! I'm Ivanilson Ferreira, a Brazilian fullstack developerpassionate about building complete, real-world systems — from frontend finesse to backend logic.
 
-- 👨‍🎓 I’m currently a full-stack (front-end biased) developer studying to become a badass back-end developer as well!
+- 👾 Frontend got me started, but now I’m all about backend flows, database design and owning the full stack.
 - 🙃 Pronouns: he/him
 
 ##
